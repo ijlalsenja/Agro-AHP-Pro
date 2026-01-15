@@ -83,7 +83,7 @@ class ResultPage extends StatelessWidget {
                         maxY: ranking.isNotEmpty ? (ranking.first['score'] as double) * 1.15 : 1.0,
                         barTouchData: BarTouchData(
                           touchTooltipData: BarTouchTooltipData(
-                            getTooltipColor: (_) => Colors.blueGrey,
+                            tooltipBgColor: Colors.blueGrey,
                             tooltipPadding: const EdgeInsets.all(8),
                             tooltipMargin: 8,
                             getTooltipItem: (group, groupIndex, rod, rodIndex) {
