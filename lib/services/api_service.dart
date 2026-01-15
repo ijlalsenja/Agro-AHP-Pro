@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 class ApiService {
   // --- KONFIGURASI ---
   // Default URL ke placeholder. Jika gagal, akan masuk Mock Mode.
-  static const String _gistUrl = 'https://gist.githubusercontent.com/YOUR_USERNAME/YOUR_HASH/raw/config.json'; 
+  static const String _gistUrl = 'https://gist.githubusercontent.com/ijlalsenja/aa0cfefcc4f2222c2788f835b74a6357/raw/6ef8b1b536ced311b4121d0ef8a8f1e3b5d3410c/config.json'; 
   
   String? _baseUrl;
   bool _isMockMode = false;
