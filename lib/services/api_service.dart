@@ -19,7 +19,7 @@ class ApiService {
       final response = await http.get(Uri.parse(_gistUrl)).timeout(const Duration(seconds: 3));
       if (response.statusCode == 200) {
         final Map<String, dynamic> data = json.decode(response.body);
-        _baseUrl = data['base_url'];
+        _baseUrl = data['base_url'].toString().trim();
         if (_baseUrl!.endsWith('/')) {
           _baseUrl = _baseUrl!.substring(0, _baseUrl!.length - 1);
         }
