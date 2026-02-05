@@ -2,6 +2,7 @@
 
 **Nama:** Muhammad Ijlal Senja Pratama  
 **NIM:** 206230010 
+
 **Studi Kasus:** Pabrik Pengolahan Kakao  
 
 ---
@@ -55,4 +56,5 @@ Agro-AHP Pro adalah sistem pendukung keputusan (DSS) berbasis mobile yang memban
 
 ---
 © 2024 Muhammad Ijlal Senja Pratama.
+
 
