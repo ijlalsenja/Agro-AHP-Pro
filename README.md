@@ -1,7 +1,7 @@
 # Agro-AHP Pro: Microservices-Based Maintenance Decision System
 
 **Nama:** Muhammad Ijlal Senja Pratama  
-**NIM:** [NIM ANDA]  
+**NIM:** 206230010 
 **Studi Kasus:** Pabrik Pengolahan Kakao  
 
 ---
@@ -55,3 +55,4 @@ Agro-AHP Pro adalah sistem pendukung keputusan (DSS) berbasis mobile yang memban
 
 ---
 © 2024 Muhammad Ijlal Senja Pratama.
+
